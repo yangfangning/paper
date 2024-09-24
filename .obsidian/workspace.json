@@ -1,0 +1,358 @@
+{
+  "main": {
+    "id": "d32d53c278207d5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6aa97a05fa37a384",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cc7aff3d98a2cf9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "川石教育_linux面试题.pdf"
+              }
+            }
+          },
+          {
+            "id": "54b0def70c9891c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c++11特性，与多线程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "859db8e666e75b69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "常见问题.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3833b75b6ccb8bc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试历史/共致开源一面.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b206613d6a057002",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试历史/兴业银行笔试.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78862407cbb0b78d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c++容器和模板.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45450d86aa95e214",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试历史/兴业银行笔试.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a85e7e1f1db0aec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试历史/深信服笔试.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5354fcb6db8d9800",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试历史/广东人工智能与先进计算研究院.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bcbbf49270251a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git使用常见命令.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b5a774b09f93774",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试题搜集.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1f8a5c799a8a121",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c++11特性，与多线程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ec7a2c79db745d7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "dd3de777419d9dc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git使用常见命令.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "907a8ec3c5d3138c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "川石课堂-常见的Linux面试题.pdf"
+              }
+            }
+          },
+          {
+            "id": "7b7815742bb67e10",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "川石课堂-Linux学习笔记课件.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 11
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d238d5652ff0464",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0f1adbdefcc40e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e894a20d33ce78d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e7c8682a5fb1ab2b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "81d17684186d56f0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "af797f70895a1992",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "c++11特性，与多线程.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5
+  },
+  "right": {
+    "id": "b6f59bfedf1a5373",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dc590e697b8d2a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df011f49ff29f114",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "c++11特性，与多线程.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "606eab8bc60555be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "c++11特性，与多线程.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78ecb19ac92c387a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "a1f8a5c799a8a121",
+  "lastOpenFiles": [
+    "c++核心编程.md",
+    "c++11特性，与多线程.md",
+    "面试历史/共致开源一面.md",
+    "川石教育_linux面试题.pdf",
+    "川石课堂-常见的Linux面试题.pdf",
+    "川石课堂-Linux学习笔记课件.pdf",
+    "git使用常见命令.md",
+    "c++容器和模板.md",
+    "C++ 面试题.pdf",
+    "面试题搜集.md",
+    "设计模式.md",
+    "常见问题.md",
+    "垃圾回收.md",
+    "QT.md",
+    "面试历史/兴业银行笔试.md",
+    "面试历史/深信服笔试.md",
+    "面试历史/广东人工智能与先进计算研究院.md",
+    "Pasted image 20240516170309.png",
+    "Pasted image 20240516170120.png",
+    "未来规划.md",
+    "图片/微信图片_202406112045233.png",
+    "图片/微信图片_202406112045232.png",
+    "图片/微信图片_202406112045231.png",
+    "图片/微信图片_20240611204523.png",
+    "面试历史",
+    "2024-05-01.md",
+    "c++容器和模板 1.md",
+    "软件测试.md",
+    "图片/Pasted image 20240506100208.png",
+    "图片/Pasted image 20240503144735.png",
+    "图片/Pasted image 20240501212128.png",
+    "Pasted image 20240503144528.png",
+    "图片",
+    "Welcome.md"
+  ]
+}
